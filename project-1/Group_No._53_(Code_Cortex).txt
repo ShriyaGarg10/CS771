@@ -1,0 +1,13 @@
+Group No. 53 (Code Cortex)
+All the members have contributed equally to this project
+Task 1:  
+Validation accuracy on Dataset 1: 92% (LSTM)
+                       Dataset 2: 99.18% (SVM)
+                       Dataset 3: 93.99% (LSTM + XGBoost)
+Task 2:
+SVM was used finally to get the accuracy of 97%, which overall is better than the individual accuracies.
+
+* Steps to run the code 
+All 9 files need to be used to run the code. The respective paths of each file mush be updated to those of the local device before running the code.
+
+Dataset 1 and Dataset 3 must be .h format before uploading.
