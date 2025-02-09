@@ -11,3 +11,5 @@ SVM was used finally to get the accuracy of 97%, which overall is better than th
 All 9 files need to be used to run the code. The respective paths of each file mush be updated to those of the local device before running the code.
 
 Dataset 1 and Dataset 3 must be .h format before uploading.
+
+The link for the dataset - https://drive.google.com/drive/folders/1iVG2z1EZ7QH-rxLPdRa9ai3caDqxO1cM?usp=drive_link
